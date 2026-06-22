@@ -1,11 +1,9 @@
 <h3 align="center">
-  Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alfred Almozara
+  Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alfred Almozara.
 </h3>
 
-<p align="center"> 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&duration=3000&pause=350&color=337DF7&width=435&lines=And+I+am+a+Computer+Science+student." alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75822&width=435&lines=And+I+am+a+second-year+Computer+Science+major." alt="Typing SVG" /></a>
 </p>
 
 </br>
