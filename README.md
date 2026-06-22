@@ -1,8 +1,6 @@
-# Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alfred Almozara.
+# Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alfred Almozara. <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1000&pause=100&color=27C9F7&width=435&lines=!;!!;!!!" alt="Typing SVG" /></a>
+
 **`2nd Year CS Student`**
-<p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75822&width=440&lines=A+second-year+Computer+Science+major." alt="Typing SVG" /></a>
-</p>
 
 <hr style="border:1px solid #F75822; margin:20px 0;">
 
