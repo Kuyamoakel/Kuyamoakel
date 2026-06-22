@@ -4,7 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75822&width=440&lines=A+second-year+Computer+Science+major." alt="Typing SVG" /></a>
 </p>
 
----
+<hr style="border:1px solid #F75822; margin:20px 0;">
+
 
 ### 🧰 Languages and Tools
 
