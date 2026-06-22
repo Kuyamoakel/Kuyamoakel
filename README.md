@@ -1,6 +1,8 @@
-# Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alfred Almozara. <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1000&pause=100&color=27C9F7&width=435&lines=!;!!;!!!" alt="Typing SVG" /></a>
+# Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alfred Almozara. 
 
-**`2nd Year CS Student`**
+**`Code is like humor. When you have to explain it, it’s bad.`**
+
+I'm a 2nd year computer science student, Musician in Church, and Java fanboy.
 
 <hr style="border:1px solid #F75822; margin:20px 0;">
 
